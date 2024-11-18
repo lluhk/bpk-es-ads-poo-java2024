@@ -3,8 +3,8 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/Aula 04 - Trabalho em Grupo das Implementações Complementares dos Exemplos Utilizados na Aula 04/Encapsulamento - Uma Visão Mais Profunda" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Aula 04 - Trabalho em Grupo das Implementações Complementares dos Exemplos Utilizados na Aula 04/Sistema Bancário e Sistema de Vendas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Aula 04 - Trabalho em Grupo das Implementações Complementares dos Exemplos Utilizados na Aula 04/Sistema Bancário" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Aula 04 - Trabalho em Grupo das Implementações Complementares dos Exemplos Utilizados na Aula 04/Sistema de Vendas" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ComandaPedidos" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
